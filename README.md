@@ -9,10 +9,20 @@
 - 📄 Know about my experiences **https://drive.google.com/file/d/1HMstjQ-c5tlbXyzUFTgAAx-RJIf9sG2o/view?usp=drive_link**
 - ⚡ Fun fact **Disturbing and macabre in general, and true crime in specific are my favorite genres in anything 😅😊**
 
+<h3 align="center">Websites Developed by Me</h3>
+
+- 🏠 Xanadu Real Estate (MERN stack/TypeScript) **https://xanadu-real-estate.vercel.app/**
+
+- 🍽️ Gericht Fine Dining (React Frontend) **https://gericht-fine-dining.vercel.app/**
+  
+- 🍣 The House of Sushi (HTML/CSS/JS Frontend) **https://the-houseof-sushi.vercel.app/**
+
 <div> <a href="https://www.linkedin.com/in/shambhavi-singh-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/ShambhavII-Singh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:shambhavi0904@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+</div>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shambhavi-singh-" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="shambhavi-singh-" height="30" width="40" /></a><a href="https://www.leetcode.com/shambhavi09042003" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="shambhavi09042003" height="30" width="40" /></a></p>
 
