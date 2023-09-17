@@ -58,6 +58,6 @@
 
 <h3 align="left">Statistics</h3>
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShambhavII-Singh&layout=compact&theme=highcontrast" alt=ShambhavII-Singh />
-<p></p>
+<p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShambhavII-Singh&theme=highcontrast" alt="ShambhavII-Singh" /></p>
 </div>
 
