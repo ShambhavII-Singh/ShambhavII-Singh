@@ -12,9 +12,7 @@
 <h3 align="center">Websites Developed by Me</h3>
 
 - 🏠 Xanadu Real Estate (MERN stack/TypeScript) **https://xanadu-real-estate.vercel.app/**
-
 - 🍽️ Gericht Fine Dining (React Frontend) **https://gericht-fine-dining.vercel.app/**
-  
 - 🍣 The House of Sushi (HTML/CSS/JS Frontend) **https://the-houseof-sushi.vercel.app/**
 
 <div> <a href="https://www.linkedin.com/in/shambhavi-singh-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
