@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Greetings👋, I'm Shambhavi !!!</h1>
+
 <h3 align="center">I am a dedicated, motivated and self-taught Full Stack web developer with a passion for creating meaningful things. I am pursuing B.Tech CSE from VIT, Vellore and am in my third year. I am currently looking for an internship to provide value to myself and any institution that deems me worthy. </h3>
 
 - 🔭 I’m currently working on **developing my portfolio website**
