@@ -2,7 +2,7 @@
 <h1 align="center">Greetings👋, I'm Shambhavi !!!</h1>
 
 
-<h3 align="center">I am a dedicated, motivated and self-taught Full Stack web developer with a passion for creating meaningful things. I am pursuing B.Tech CSE from VIT, Vellore and am in my third year. I am currently looking for an internship to provide value to myself and any institution that deems me worthy. </h3>
+<h3 align="center"> I am a dedicated, motivated and self-taught Full Stack web developer with a passion for creating meaningful things. I am pursuing B.Tech CSE from VIT, Vellore and am in my third year. I am currently looking for an internship to provide value to myself and any institution that deems me worthy. </h3>
 
 - 🔭 I’m currently working on **developing my portfolio website**
 - 🌱 I’m currently learning **MERN web development and Data Structures and Algorithms**
@@ -12,7 +12,7 @@
 - ⚡ Fun fact **Disturbing and macabre in general, and true crime in specific are my favorite genres in anything 😅😊**
 
 
-<h3 align="center">Websites Developed by Me</h3>
+<h3 align="center"> Websites Developed by Me </h3>
 
 - 🏠 Xanadu Real Estate (MERN stack/TypeScript) **https://xanadu-real-estate.vercel.app/**
 - 🍽️ Gericht Fine Dining (React Frontend) **https://gericht-fine-dining.vercel.app/**
