@@ -4,7 +4,7 @@
 
 I am a dedicated, motivated and self-taught Full Stack web developer with a passion for creating meaningful things. I am pursuing B.Tech CSE from VIT, Vellore and am in my third year. I am currently looking for an internship to provide value to myself and any institution that deems me worthy.
 
-- 🔭 I’m currently working on **developing my portfolio website**
+- 🔭 I’m currently working on **developing my portfolio websit**
 - 🌱 I’m currently learning **MERN web development and Data Structures and Algorithms**
 - 💬 Ask me about **Frontend web development, Backend web development, , Full stack web development, Python, C/C++, DSA**
 - 📫 How to reach me **shambhavi0904@gmail.com**
@@ -14,6 +14,7 @@ I am a dedicated, motivated and self-taught Full Stack web developer with a pass
 
 # Websites Developed by Me
 
+- 🗺️ EcoTransit (React/Rest APIs/Web GIS) **https://ecotransit.vercel.app/**
 - 🏠 Xanadu Real Estate (MERN stack/TypeScript) **https://xanadu-real-estate.vercel.app/**
 - 🍽️ Gericht Fine Dining (React Frontend) **https://gericht-fine-dining.vercel.app/**
 - 🍣 The House of Sushi (HTML/CSS/JS Frontend) **https://the-houseof-sushi.vercel.app/**
